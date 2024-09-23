@@ -1,0 +1,5 @@
+-keep class com.chakulafasta.pom.presentation.screen.home.addcards.AddCardsFragment
+-keepnames class com.chakulafasta.pom.presentation.screen.exampleexercise.ExampleExerciseFragment
+-keepnames class com.chakulafasta.pom.presentation.screen.exampleplayer.ExamplePlayerFragment
+-keep class com.chakulafasta.pom.presentation.screen.cardsimport.cardsfile.sourcetext.fileformat.FileFormatFragment
+-keepnames class com.chakulafasta.pom.presentation.screen.cardappearance.example.CardAppearanceExampleFragment
